@@ -11,7 +11,7 @@ public class Person {
      */
     Person()
     {
-        this("Undefined", 18);
+        this("Undefined1", 18);
         age = 18;
     }
 
